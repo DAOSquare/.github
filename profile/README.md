@@ -3,5 +3,6 @@
     <br />
     <br />
     <p>Start your Adventure in Venture DAOs.</p>
+    <p>Will public protocol code when incubator live on mainet</p>
     <a href="https://daosquare.fi">daosquare.fi</a>
 </div>
